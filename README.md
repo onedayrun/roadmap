@@ -1,6 +1,8 @@
 # [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
-
+## O firmie Softreck
++ [Softreck - Leadership Through Software Development](https://softreck.pl/)
++ [culture.softreck.dev](https://culture.softreck.dev/#/)
 
 ## Sprzedaż
 
