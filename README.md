@@ -6,6 +6,8 @@
 
 ## Sprzedaż
 
++ [pricing.oneday.run](https://pricing.oneday.run/#/)
+
 Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
 możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
 
