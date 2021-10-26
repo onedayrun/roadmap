@@ -1,3 +1,5 @@
+![1/cover.png](https://onedayrun.github.io/logo/1/cover.png)
+
 # [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
 ## O firmie Softreck
